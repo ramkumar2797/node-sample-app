@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "npm install and npm start"
+    "test": "npm install and node index"
   },
   "keywords": [],
   "author": "",
